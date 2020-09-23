@@ -12,6 +12,14 @@ Contact Zhichun Guo (zguo5@nd.edu), if you have any questions.
 
 ## Usage
 
+### Installation
+- torch >= 1.0.0
+- sklearn >= 0.21.0
+- rdkit.Chem 
+
+### Run code
+python GraSeq/main.py
+
 ## Reference
 >@inproceedings{  
 guo2020graseq,  
