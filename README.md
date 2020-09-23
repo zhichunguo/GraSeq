@@ -8,8 +8,6 @@ This is the source code for the following paper:
 
 Contact Zhichun Guo (zguo5@nd.edu), if you have any questions.
 
-## Dataset
-
 ## Usage
 
 ### Installation
