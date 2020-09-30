@@ -16,7 +16,12 @@ Contact Zhichun Guo (zguo5@nd.edu), if you have any questions.
 - rdkit.Chem 
 
 ### Run code
-python GraSeq/main.py
+
+- For single-task classification (such as LogP, FDA, BBBP, BACE datasets):  
+    python GraSeq_single/main.py
+
+- For multi-task classification (such as Tox21 and ToxCast datasets):  
+    python GraSeq_multi/main.py
 
 ## Reference
 >@inproceedings{  
